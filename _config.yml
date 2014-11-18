@@ -4,7 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            Fredokun
-tagline:          Outputs
+tagline:          Algorithms, Programs, et cetera.
 url:              http://fredokun.github.io/
 paginate:         1
 baseurl:          /
